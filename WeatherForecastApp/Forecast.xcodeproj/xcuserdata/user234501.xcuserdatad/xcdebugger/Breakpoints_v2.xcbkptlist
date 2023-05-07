@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "181D5755-8C1E-4897-8A1A-BEC11A94EEA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3BE1654-AED6-4C0E-BA24-DC53AF12C129"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/Views/Pages/ForecastView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A198986-FFB7-46EB-B554-1C0B142B40CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/WeatherAPI/WeatherDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "getCurrentWeatherForCity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88074F01-9A7D-4A3C-833F-D2D6D2A6476C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/WeatherAPI/WeatherDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "getCurrentWeatherForCity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B09F14D-E6BD-4DBE-A696-8796C8D33E9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/WeatherAPI/WeatherDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "requestData(_:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B09F14D-E6BD-4DBE-A696-8796C8D33E9E - 31676d110c7505e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Forecast.WeatherDataModel.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, for: Swift.String) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "7B09F14D-E6BD-4DBE-A696-8796C8D33E9E - 31676d110c75f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Forecast.WeatherDataModel.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, for: Swift.String) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "7B09F14D-E6BD-4DBE-A696-8796C8D33E9E - 31676d110c75f80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Forecast.WeatherDataModel.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, for: Swift.String) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "7B09F14D-E6BD-4DBE-A696-8796C8D33E9E - 1cd26eba47ef0a55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Forecast.WeatherDataModel.requestData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, for: Swift.String) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F638FD6-09F7-4382-A82D-6E9F070F467A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/WeatherAPI/WeatherDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadFromJSONFile(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F638FD6-09F7-4382-A82D-6E9F070F467A - ea53930457fd199d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forecast.WeatherDataModel.loadFromJSONFile&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(&#x3c4;_0_0.Type, Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "1F638FD6-09F7-4382-A82D-6E9F070F467A - ea53930457fd19ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forecast.WeatherDataModel.loadFromJSONFile&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(&#x3c4;_0_0.Type, Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/WeatherAPI/WeatherDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3541C63-AF2C-4BFD-94C6-53B543BA339B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/Views/Pages/LocationSearch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F3541C63-AF2C-4BFD-94C6-53B543BA339B - 9ed865b320edfef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.edgesIgnoringSafeArea(SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Forecast.LocationSearch.body.getter : some"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/Views/Pages/LocationSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "F3541C63-AF2C-4BFD-94C6-53B543BA339B - ee9b025cc49148a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.edgesIgnoringSafeArea(SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Forecast.LocationSearch.body.getter : some"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/Views/Pages/LocationSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15952151-1DCA-4233-9ACB-4527509BA5DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3D4C268-6FA0-4511-8CCF-94F71226BE50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forecast/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F3D4C268-6FA0-4511-8CCF-94F71226BE50 - c24623ce7affcf14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Forecast.getLocFromLatLong(lat: Swift.Double, lon: Swift.Double) async -&gt; Swift.String"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/Helpers/LocationHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "F3D4C268-6FA0-4511-8CCF-94F71226BE50 - c24623ce7affcf14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Forecast.getLocFromLatLong(lat: Swift.Double, lon: Swift.Double) async -&gt; Swift.String"
+                  moduleName = "Forecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user234501/Downloads/Forcast%20App%20version%202/Forecast/Helpers/LocationHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
